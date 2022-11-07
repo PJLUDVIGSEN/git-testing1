@@ -16,5 +16,8 @@
     "url": "https://github.com/PJLUDVIGSEN/git-testing1/issues"
   },
   "homepage": "https://github.com/PJLUDVIGSEN/git-testing1#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
